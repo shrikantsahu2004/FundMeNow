@@ -52,6 +52,7 @@ Control over Cash Outflow with the help of Smart Contracts
 - Next JS
 - Metamask
 - React JS
+- CSS
 
 ## Testing Smart Contract Functionalities with Mocha
 - **Mocha** is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. 
