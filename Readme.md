@@ -1,5 +1,5 @@
 # FundMeNow
-### An Ethereum Blockchain based Crowdfunding Platform.
+### This is an Ethereum Blockchain based Crowdfunding Platform.
 
 ## Demo Video
 
@@ -59,6 +59,6 @@ Control over Cash Outflow with the help of Smart Contracts
 - **Mocha** tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
 
 ### Contributors:
-- Rishabh Kothari (1911110)
-- Sanket Saboo (1911112)
-- Shrikant Sahu (1911113)
+- Rishabh Kothari - 1911110
+- Sanket Saboo - 1911112
+- Shrikant Sahu - 1911113
